@@ -36,3 +36,14 @@ p {
 .bi {
     font-size: 50px;
 }
+
+/* footer 7 */
+footer {
+    background-color: #0dcaf0;
+}
+a .bi{
+    color: white;
+}
+.col-7 p {
+    color: white;
+}
