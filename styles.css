@@ -1,0 +1,28 @@
+/* css seccion 1 */
+.bg-section-1{
+    background-image: url(./images/enfermedades.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 450px;
+    position: relative;
+    margin-bottom: 2rem;
+}
+.contenido-section-1 {
+    position: absolute;
+    background-color: rgba(0, 0, 0, 0.5);
+    height: 100%;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+h1, h2, h3 {
+    font-family: 'Inter', sans-serif;
+}
+h1 {
+    color: white;
+}
+a {
+    text-decoration: none;
+}
